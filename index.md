@@ -2,8 +2,7 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
-My Name 
+My Name is Sai Sruti Sitharaman
 Picture 
 Social Media Information 
 Brag Sheet 
