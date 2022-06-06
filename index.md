@@ -3,5 +3,5 @@ title: "Welcome to my blog"
 ---
 
 My Name is Sai Sruti Sitharaman
-![My Picture](https://github.com/saisruti1229/github-pages-with-jekyll/blob/main/sruti.jpg)
+<img src="https://saisruti1229.github.io/github-pages-with-jekyll/assets/sruti.jpg" alt="sruti" />
 Brag Sheet 
