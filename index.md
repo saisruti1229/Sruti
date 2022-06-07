@@ -1,5 +1,5 @@
 ---
-layout: :"post"
+layout: "post"
 title: "welcome to Sruti's blog!"
 ---
 
