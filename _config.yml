@@ -1,4 +1,6 @@
 theme: minima
+plugins:
+  - jekyll-feed
 title: My Website 
 author: Sai Sruti Sitharaman
 email: your-saisruti1229@gmail.com
