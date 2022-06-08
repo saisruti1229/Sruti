@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "welcome to Sruti's blog!"
+title: "Welcome to Sruti's blog!"
 ---
 
 Hi! I'm Sai Sruti Sitharaman
