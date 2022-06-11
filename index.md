@@ -3,8 +3,7 @@ layout: "post"
 title: "About Me!"
 ---
 ![Sruti](/Sruti/docs/assets/sruti.jpg)
- <span style="color:green">
-
+<span style="color:blue">
  Hello, I am Sai Sruti, a junior at East Brunswick High School. Here are three things in High School that I was proud of: 
 <div style="page-break-after: always;"></div>
 I am proud of taking classes that are out of my comfort zone. Throughout high school, I have been a versatile student and took a diverse set of classes. 
