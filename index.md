@@ -12,5 +12,4 @@ I am proud of taking classes that are out of my comfort zone. Throughout high sc
 I am proud of making meaningful connections. During my time at the high school, I have made many connections and friendships that I would not have otherwise if I hadn’t stepped out of my bubble. 
 <div style="page-break-after: always;"></div>
 Lastly, I am proud of the consistency of my extracurricular activities from freshmen year until now that are unaffected by the courseload and work. 
- <div style="page-break-after: always;"></div>
 </span>
